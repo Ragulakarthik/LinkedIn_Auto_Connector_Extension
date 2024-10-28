@@ -1,15 +1,17 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-  <title>LinkedIn Connect</title>
-  <style>
-    body { font-family: Arial, sans-serif; }
-    button { margin: 10px 0; padding: 10px; width: 100%; }
-  </style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LinkedIn Auto Connector</title>
+    <link rel="stylesheet" href="popup.css">
 </head>
 <body>
-  <h3>LinkedIn Auto-Connect</h3>
-  <button id="startButton">Start Connecting</button>
-  <script src="popup.js"></script>
+    <h1>LinkedIn Connector</h1>
+    <button id="startButton">Start</button>
+    <button id="stopButton" disabled>Stop</button>
+    <p id="status">Idle</p>
+    <p id="buttonCount">Connect Buttons Found: <span id="buttonCountValue">0</span></p>
+    <script src="popup.js"></script>
 </body>
 </html>
