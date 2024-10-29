@@ -9,7 +9,7 @@ This Chrome extension automates the process of sending connection requests on Li
 - **Status Updates**: Provides feedback on the process (e.g., `Sending connection requests...`, `Stopped sending connection requests`).
 
 ## Installation 🛠️
-1. Clone this repository to your local machine. == > [git clone https://github.com/Ragulakarthik/Kinkedin_Auto_Connector_Extension.git](https://github.com/Ragulakarthik/LinkedIn_Auto_Connector_Extension.git)
+1. Clone this repository to your local machine. == > [git clone https://github.com/Ragulakarthik/Kinkedin_Auto_Connector_Extension.git]
 2. Open Chrome and navigate to chrome://extensions/.
 3. Enable Developer mode (toggle in the top right).
 4. Click Load unpacked and select the folder containing this extension.
