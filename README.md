@@ -11,6 +11,9 @@ This Chrome extension automates the process of sending connection requests on Li
 
 ![image](https://github.com/user-attachments/assets/f5a7408a-5bdd-4adc-8c76-f59ea4150788)
 
+## DEMO VIDEO LINK
+
+[Click Here](https://drive.google.com/file/d/1FfU-MMPS30znsLMUZ0Rl--JIfNWe4wnp/view?usp=sharing)
 
 ## Features 🌟
 - **Automatic Connection Requests**: Finds and clicks "Connect" buttons for you.
