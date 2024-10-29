@@ -2,6 +2,12 @@
 
 This Chrome extension automates the process of sending connection requests on LinkedIn. It locates and clicks "Connect" buttons on LinkedIn profiles, sending requests without a personalized note. You can start and stop the connection process as needed, making it easier to network on the platform.
 
+![image](https://github.com/user-attachments/assets/8b4e3861-7a5e-4fb3-8c22-f5933f6ba9d8)
+
+
+![image](https://github.com/user-attachments/assets/d5008d6b-1006-4769-a738-3c93254c1b87)
+
+
 ## Features 🌟
 - **Automatic Connection Requests**: Finds and clicks "Connect" buttons for you.
 - **Start/Stop Control**: Start and stop the connection requests anytime.
